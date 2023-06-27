@@ -40,3 +40,4 @@ jobs:
             -d '{"imageName":"
 lionfit/Giomar2003@:latest","name":"GYN"}' \
             https://render.com/api/v1/services
+            
