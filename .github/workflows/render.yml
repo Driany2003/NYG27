@@ -38,5 +38,5 @@ jobs:
             -H "Content-Type: application/json" \
             -X POST \
             -d '{"imageName":"
-lionfit/Giomar2003@:latest","name":"gyn"}' \
+lionfit/Giomar2003@:latest","name":"GYN"}' \
             https://render.com/api/v1/services
